@@ -1,4 +1,4 @@
-# AudioRWKV: Pretrained Audio Mamba for Audio Pattern Recognition
+# AudioMamba: Pretrained Audio Mamba for Audio Pattern Recognition
 ## Introduction
 
 The Code Repository for  "AudioMamba: Pretrained Audio RWKV for Audio Pattern Recognition"
